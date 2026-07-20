@@ -10,7 +10,7 @@ export default function TopBar() {
             </a>
             <div className="top-bar-item">
               <i className="fas fa-clock" />
-              <span>Mon – Fri &nbsp; 8:00 AM – 5:00 PM</span>
+              <span>Mon – Fri &nbsp; 9:30 AM – 3:30 PM</span>
             </div>
             <div className="top-bar-item">
               <i className="fas fa-map-marker-alt" />
